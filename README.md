@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0009-palindrome-number) |
+| [2235-add-two-integers](https://github.com/Yami-gaur04/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
