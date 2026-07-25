@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Yami-gaur04/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Yami-gaur04/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yami-gaur04/Leetcode/tree/master/0342-power-of-four) |
+| [0492-construct-the-rectangle](https://github.com/Yami-gaur04/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [2235-add-two-integers](https://github.com/Yami-gaur04/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
