@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Yami-gaur04/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Yami-gaur04/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Yami-gaur04/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Yami-gaur04/Leetcode/tree/master/0326-power-of-three) |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yami-gaur04/Leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Yami-gaur04/Leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yami-gaur04/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
