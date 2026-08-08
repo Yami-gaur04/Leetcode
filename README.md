@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Yami-gaur04/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Yami-gaur04/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Dynamic Programming
 |  |
 | ------- |
