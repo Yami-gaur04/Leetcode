@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Yami-gaur04/Leetcode/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/Yami-gaur04/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [2235-add-two-integers](https://github.com/Yami-gaur04/Leetcode/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/Yami-gaur04/Leetcode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
