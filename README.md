@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Yami-gaur04/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Yami-gaur04/Leetcode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Yami-gaur04/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yami-gaur04/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Yami-gaur04/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/Yami-gaur04/Leetcode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/Yami-gaur04/Leetcode/tree/master/2652-sum-multiples) |
