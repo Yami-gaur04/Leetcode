@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Yami-gaur04/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yami-gaur04/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Yami-gaur04/Leetcode/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/Yami-gaur04/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/3024-type-of-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Yami-gaur04/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
