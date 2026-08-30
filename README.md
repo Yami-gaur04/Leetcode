@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Yami-gaur04/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
+| [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Yami-gaur04/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Yami-gaur04/Leetcode/tree/master/0412-fizz-buzz) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
