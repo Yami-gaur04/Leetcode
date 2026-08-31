@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Yami-gaur04/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
+| [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Yami-gaur04/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/3024-type-of-triangle) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Yami-gaur04/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yami-gaur04/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Yami-gaur04/Leetcode/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yami-gaur04/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Yami-gaur04/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Yami-gaur04/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Yami-gaur04/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Yami-gaur04/Leetcode/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -122,8 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Yami-gaur04/Leetcode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
