@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Yami-gaur04/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Yami-gaur04/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2923-find-champion-i](https://github.com/Yami-gaur04/Leetcode/tree/master/2923-find-champion-i) |
 | [3024-type-of-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/Yami-gaur04/Leetcode/tree/master/3033-modify-the-matrix) |
 ## Dynamic Programming
@@ -136,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Yami-gaur04/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2923-find-champion-i](https://github.com/Yami-gaur04/Leetcode/tree/master/2923-find-champion-i) |
 | [3033-modify-the-matrix](https://github.com/Yami-gaur04/Leetcode/tree/master/3033-modify-the-matrix) |
 <!---LeetCode Topics End-->
