@@ -3,16 +3,15 @@ class Solution {
         int n = grid.length;
 
         for (int i = 0; i < n; i++) {
-            boolean champion = true;
+            int count = 0;
 
             for (int j = 0; j < n; j++) {
-                if (i != j && grid[i][j] == 0) {
-                    champion = false;
-                    break;
+                if (grid[i][j] == 1) {
+                    count++;
                 }
             }
 
-            if (champion) {
+            if (count == n - 1) {
                 return i;
             }
         }
