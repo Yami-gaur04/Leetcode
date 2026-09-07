@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Yami-gaur04/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Yami-gaur04/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/Yami-gaur04/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Yami-gaur04/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2923-find-champion-i](https://github.com/Yami-gaur04/Leetcode/tree/master/2923-find-champion-i) |
@@ -134,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Yami-gaur04/Leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Yami-gaur04/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Yami-gaur04/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Yami-gaur04/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/Yami-gaur04/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2923-find-champion-i](https://github.com/Yami-gaur04/Leetcode/tree/master/2923-find-champion-i) |
 | [3033-modify-the-matrix](https://github.com/Yami-gaur04/Leetcode/tree/master/3033-modify-the-matrix) |
