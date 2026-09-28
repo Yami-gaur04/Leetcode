@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yami-gaur04/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Yami-gaur04/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Yami-gaur04/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yami-gaur04/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yami-gaur04/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Yami-gaur04/Leetcode/tree/master/0412-fizz-buzz) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Yami-gaur04/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Yami-gaur04/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Yami-gaur04/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Yami-gaur04/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Yami-gaur04/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yami-gaur04/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Yami-gaur04/Leetcode/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yami-gaur04/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yami-gaur04/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yami-gaur04/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -104,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yami-gaur04/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Yami-gaur04/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [3024-type-of-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/3024-type-of-triangle) |
 ## Linked List
 |  |
