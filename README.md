@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Yami-gaur04/Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Yami-gaur04/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Yami-gaur04/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Yami-gaur04/Leetcode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Yami-gaur04/Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yami-gaur04/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Yami-gaur04/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yami-gaur04/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Yami-gaur04/Leetcode/tree/master/0645-set-mismatch) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yami-gaur04/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yami-gaur04/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Yami-gaur04/Leetcode/tree/master/0645-set-mismatch) |
 | [3024-type-of-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/3024-type-of-triangle) |
 ## Linked List
 |  |
