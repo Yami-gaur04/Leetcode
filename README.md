@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yami-gaur04/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Yami-gaur04/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Yami-gaur04/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Yami-gaur04/Leetcode/tree/master/0645-set-mismatch) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Yami-gaur04/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Yami-gaur04/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Yami-gaur04/Leetcode/tree/master/1672-richest-customer-wealth) |
