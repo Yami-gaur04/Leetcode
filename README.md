@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yami-gaur04/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Yami-gaur04/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Yami-gaur04/Leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Yami-gaur04/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yami-gaur04/Leetcode/tree/master/0326-power-of-three) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yami-gaur04/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Yami-gaur04/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yami-gaur04/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Yami-gaur04/Leetcode/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Yami-gaur04/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yami-gaur04/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Yami-gaur04/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yami-gaur04/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Yami-gaur04/Leetcode/tree/master/0645-set-mismatch) |
@@ -175,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yami-gaur04/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
