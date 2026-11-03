@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yami-gaur04/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yami-gaur04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yami-gaur04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Yami-gaur04/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yami-gaur04/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Array
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yami-gaur04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yami-gaur04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yami-gaur04/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Yami-gaur04/Leetcode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yami-gaur04/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Yami-gaur04/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Yami-gaur04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yami-gaur04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/Yami-gaur04/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Yami-gaur04/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yami-gaur04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yami-gaur04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yami-gaur04/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Yami-gaur04/Leetcode/tree/master/0645-set-mismatch) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yami-gaur04/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yami-gaur04/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yami-gaur04/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yami-gaur04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yami-gaur04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Yami-gaur04/Leetcode/tree/master/0645-set-mismatch) |
 | [3024-type-of-triangle](https://github.com/Yami-gaur04/Leetcode/tree/master/3024-type-of-triangle) |
 ## Linked List
